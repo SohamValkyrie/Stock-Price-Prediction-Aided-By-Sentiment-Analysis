@@ -2,4 +2,4 @@ This project combines numerical data analysis with sentiment analysis of newspap
 
 
 Dataset Link
-https://leetcode.com/u/Soham_bny2003/
+https://drive.google.com/drive/folders/1xCYTwyMb1x_GiFxbL18ZHRCfIG5FRlvn?usp=sharing
